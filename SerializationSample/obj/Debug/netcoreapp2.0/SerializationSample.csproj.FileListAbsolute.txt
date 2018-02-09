@@ -1,0 +1,11 @@
+C:\Users\d1mne\RiderProjects\SerializationSample\SerializationSample\bin\Debug\netcoreapp2.0\SerializationSample.deps.json
+C:\Users\d1mne\RiderProjects\SerializationSample\SerializationSample\bin\Debug\netcoreapp2.0\SerializationSample.runtimeconfig.json
+C:\Users\d1mne\RiderProjects\SerializationSample\SerializationSample\bin\Debug\netcoreapp2.0\SerializationSample.runtimeconfig.dev.json
+C:\Users\d1mne\RiderProjects\SerializationSample\SerializationSample\bin\Debug\netcoreapp2.0\SerializationSample.dll
+C:\Users\d1mne\RiderProjects\SerializationSample\SerializationSample\bin\Debug\netcoreapp2.0\SerializationSample.pdb
+C:\Users\d1mne\RiderProjects\SerializationSample\SerializationSample\obj\Debug\netcoreapp2.0\SerializationSample.csprojResolveAssemblyReference.cache
+C:\Users\d1mne\RiderProjects\SerializationSample\SerializationSample\obj\Debug\netcoreapp2.0\SerializationSample.csproj.CoreCompileInputs.cache
+C:\Users\d1mne\RiderProjects\SerializationSample\SerializationSample\obj\Debug\netcoreapp2.0\SerializationSample.AssemblyInfoInputs.cache
+C:\Users\d1mne\RiderProjects\SerializationSample\SerializationSample\obj\Debug\netcoreapp2.0\SerializationSample.AssemblyInfo.cs
+C:\Users\d1mne\RiderProjects\SerializationSample\SerializationSample\obj\Debug\netcoreapp2.0\SerializationSample.dll
+C:\Users\d1mne\RiderProjects\SerializationSample\SerializationSample\obj\Debug\netcoreapp2.0\SerializationSample.pdb

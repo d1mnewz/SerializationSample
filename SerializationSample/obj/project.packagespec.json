@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\d1mne\\RiderProjects\\SerializationSample\\SerializationSample\\SerializationSample.csproj",
+    "projectName": "SerializationSample",
+    "projectPath": "C:\\Users\\d1mne\\RiderProjects\\SerializationSample\\SerializationSample\\SerializationSample.csproj",
+    "outputPath": "C:\\Users\\d1mne\\RiderProjects\\SerializationSample\\SerializationSample\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "BinaryFormatter": {
+          "target": "Package",
+          "version": "[2.1.4, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "protobuf-net": {
+          "target": "Package",
+          "version": "[2.3.6, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
